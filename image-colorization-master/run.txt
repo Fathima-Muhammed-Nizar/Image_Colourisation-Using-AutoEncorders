@@ -1,0 +1,8 @@
+step 1:
+cd F:\Downloads\image-colorization\image-colorization-master
+
+step 2:
+env\Scripts\activate
+
+step 3:
+python colorize.py -i <path/to/image.jpg> -o <path/to/output.jpg> -r 360
