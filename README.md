@@ -21,7 +21,7 @@ Execute the command
 python colorize.py -i <path/to/image.jpg> -o <path/to/output.jpg> -r 360  
 
 Note:    
-As the model is trained with 224x224 images, it gives best results when --res is set to lower resolutions (<=480) and okay-ish when set around ~720.  
+As the model is trained with 224x224 images, it gives best results when --res is set to lower resolutions (<=480) and good results when set around ~720.  
 Setting --res higher than that of input image won't increase the output's quality.  
 
 # Results
