@@ -11,12 +11,13 @@ Create virtual environment
 Install requirements.txt 
 Then follow below steps:  
 step 1:  
-cd F:\Downloads\image-colorization\image-colorization-master  
+Go to the projects folder
 
 step 2:  
-env\Scripts\activate  
+Activate the virtual environment
 
-step 3:  
+step 3:    
+Execute the command  
 python colorize.py -i <path/to/image.jpg> -o <path/to/output.jpg> -r 360  
 
 Note:    
